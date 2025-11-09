@@ -1,1 +1,19 @@
+# Python
+__pycache__/
+*.pyc
+
+# Virtual envs
 venv/
+.env
+
+# Credentials
+service_account.json
+
+# Data artifacts
+*.json
+!data/blueprints_full.json
+!data/blueprint_names.json
+
+# Editors
+.vscode/
+.idea/
