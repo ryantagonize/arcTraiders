@@ -1,0 +1,662 @@
+[
+  {
+    "blueprint_name": "Anvil",
+    "workshop": "Gunsmith 2",
+    "crafting_recipe": "5x Mechanical Components 5x Simple Gun Parts",
+    "loot": "Yes",
+    "harvester_event": "No",
+    "quest_reward": "No",
+    "trials_reward": "Yes",
+    "blueprint_url": "https://arcraiders.wiki/wiki/Anvil"
+  },
+  {
+    "blueprint_name": "Anvil Splitter",
+    "workshop": "Gunsmith 3",
+    "crafting_recipe": "?",
+    "loot": "Yes",
+    "harvester_event": "No",
+    "quest_reward": "No",
+    "trials_reward": "",
+    "blueprint_url": "https://arcraiders.wiki/wiki/Anvil_Splitter"
+  },
+  {
+    "blueprint_name": "Angled Grip II",
+    "workshop": "Gunsmith 2",
+    "crafting_recipe": "2x Mechanical Components 3x Duct Tape",
+    "loot": "Yes",
+    "harvester_event": "No",
+    "quest_reward": "No",
+    "trials_reward": "",
+    "blueprint_url": "https://arcraiders.wiki/wiki/Angled_Grip_II"
+  },
+  {
+    "blueprint_name": "Angled Grip III",
+    "workshop": "Gunsmith 3",
+    "crafting_recipe": "2x Mod Components 5x Duct Tape",
+    "loot": "Yes",
+    "harvester_event": "No",
+    "quest_reward": "No",
+    "trials_reward": "",
+    "blueprint_url": "https://arcraiders.wiki/wiki/Angled_Grip_III"
+  },
+  {
+    "blueprint_name": "Barricade Kit",
+    "workshop": "Utility Station 2",
+    "crafting_recipe": "1x Mechanical Components",
+    "loot": "Yes",
+    "harvester_event": "No",
+    "quest_reward": "No",
+    "trials_reward": "",
+    "blueprint_url": "https://arcraiders.wiki/wiki/Barricade_Kit"
+  },
+  {
+    "blueprint_name": "Bettina",
+    "workshop": "Gunsmith 3",
+    "crafting_recipe": "3x Advanced Mechanical Components 3x Heavy Gun Parts 3x Canister",
+    "loot": "Yes",
+    "harvester_event": "No",
+    "quest_reward": "No",
+    "trials_reward": "",
+    "blueprint_url": "https://arcraiders.wiki/wiki/Bettina"
+  },
+  {
+    "blueprint_name": "Blaze Grenade",
+    "workshop": "Explosives Station 3",
+    "crafting_recipe": "1x Explosive Compound 2x Oil",
+    "loot": "Yes",
+    "harvester_event": "No",
+    "quest_reward": "No",
+    "trials_reward": "Yes",
+    "blueprint_url": "https://arcraiders.wiki/wiki/Blaze_Grenade"
+  },
+  {
+    "blueprint_name": "Bobcat",
+    "workshop": "Gunsmith 3",
+    "crafting_recipe": "?",
+    "loot": "Yes",
+    "harvester_event": "No",
+    "quest_reward": "No",
+    "trials_reward": "",
+    "blueprint_url": "https://arcraiders.wiki/wiki/Bobcat"
+  },
+  {
+    "blueprint_name": "Burletta",
+    "workshop": "Gunsmith 1",
+    "crafting_recipe": "3x Mechanical Components 3x Simple Gun Parts",
+    "loot": "No",
+    "harvester_event": "No",
+    "quest_reward": "Yes",
+    "trials_reward": "",
+    "blueprint_url": "https://arcraiders.wiki/wiki/Burletta"
+  },
+  {
+    "blueprint_name": "Combat Mk. 3 (AGGRESSIVE)",
+    "workshop": "Gear Bench 3",
+    "crafting_recipe": "2x Advanced Electrical Components 3x Processor",
+    "loot": "Yes",
+    "harvester_event": "No",
+    "quest_reward": "No",
+    "trials_reward": "",
+    "blueprint_url": "https://arcraiders.wiki/wiki/Combat_Mk._3_(AGGRESSIVE)"
+  },
+  {
+    "blueprint_name": "Combat Mk. 3 (FLANKING)",
+    "workshop": "Gear Bench 3",
+    "crafting_recipe": "2x Advanced Electrical Components 3x Processor",
+    "loot": "Yes",
+    "harvester_event": "No",
+    "quest_reward": "No",
+    "trials_reward": "",
+    "blueprint_url": "https://arcraiders.wiki/wiki/Combat_Mk._3_(FLANKING)"
+  },
+  {
+    "blueprint_name": "Compensator II",
+    "workshop": "Gunsmith 2",
+    "crafting_recipe": "2x Mechanical Components 4x Wires",
+    "loot": "Yes",
+    "harvester_event": "No",
+    "quest_reward": "No",
+    "trials_reward": "",
+    "blueprint_url": "https://arcraiders.wiki/wiki/Compensator_II"
+  },
+  {
+    "blueprint_name": "Compensator III",
+    "workshop": "Gunsmith 3",
+    "crafting_recipe": "2x Mod Components 8x Wires",
+    "loot": "Yes",
+    "harvester_event": "No",
+    "quest_reward": "No",
+    "trials_reward": "",
+    "blueprint_url": "https://arcraiders.wiki/wiki/Compensator_III"
+  },
+  {
+    "blueprint_name": "Complex Gun Parts",
+    "workshop": "Refiner 3",
+    "crafting_recipe": "1x Light Gun Parts 1x Medium Gun Parts 1x Heavy Gun Parts",
+    "loot": "Yes",
+    "harvester_event": "No",
+    "quest_reward": "No",
+    "trials_reward": "",
+    "blueprint_url": "https://arcraiders.wiki/wiki/Complex_Gun_Parts"
+  },
+  {
+    "blueprint_name": "Defibrillator",
+    "workshop": "Medical Lab 2",
+    "crafting_recipe": "9x Plastic Parts 1x Moss",
+    "loot": "Yes",
+    "harvester_event": "No",
+    "quest_reward": "No",
+    "trials_reward": "",
+    "blueprint_url": "https://arcraiders.wiki/wiki/Defibrillator"
+  },
+  {
+    "blueprint_name": "Explosive Mine",
+    "workshop": "Explosives Station 3",
+    "crafting_recipe": "1x Explosive Compound 1x Sensors",
+    "loot": "Yes",
+    "harvester_event": "No",
+    "quest_reward": "No",
+    "trials_reward": "",
+    "blueprint_url": "https://arcraiders.wiki/wiki/Explosive_Mine"
+  },
+  {
+    "blueprint_name": "Extended Barrel",
+    "workshop": "Gunsmith 3",
+    "crafting_recipe": "2x Mod Components 8x Wires",
+    "loot": "Yes",
+    "harvester_event": "No",
+    "quest_reward": "No",
+    "trials_reward": "",
+    "blueprint_url": "https://arcraiders.wiki/wiki/Extended_Barrel"
+  },
+  {
+    "blueprint_name": "Extended Light Magazine II",
+    "workshop": "Gunsmith 2",
+    "crafting_recipe": "2x Mechanical Components 3x Steel Spring",
+    "loot": "Yes",
+    "harvester_event": "No",
+    "quest_reward": "No",
+    "trials_reward": "",
+    "blueprint_url": "https://arcraiders.wiki/wiki/Extended_Light_Magazine_II"
+  },
+  {
+    "blueprint_name": "Extended Light Magazine III",
+    "workshop": "Gunsmith 3",
+    "crafting_recipe": "2x Mod Components 5x Steel Spring",
+    "loot": "Yes",
+    "harvester_event": "No",
+    "quest_reward": "No",
+    "trials_reward": "",
+    "blueprint_url": "https://arcraiders.wiki/wiki/Extended_Light_Magazine_III"
+  },
+  {
+    "blueprint_name": "Extended Medium Magazine II",
+    "workshop": "Gunsmith 2",
+    "crafting_recipe": "2x Mechanical Components 3x Steel Spring",
+    "loot": "Yes",
+    "harvester_event": "No",
+    "quest_reward": "No",
+    "trials_reward": "",
+    "blueprint_url": "https://arcraiders.wiki/wiki/Extended_Medium_Magazine_II"
+  },
+  {
+    "blueprint_name": "Extended Medium Magazine III",
+    "workshop": "Gunsmith 3",
+    "crafting_recipe": "2x Mod Components 5x Steel Spring",
+    "loot": "Yes",
+    "harvester_event": "No",
+    "quest_reward": "No",
+    "trials_reward": "",
+    "blueprint_url": "https://arcraiders.wiki/wiki/Extended_Medium_Magazine_III"
+  },
+  {
+    "blueprint_name": "Extended Shotgun Magazine II",
+    "workshop": "Gunsmith 2",
+    "crafting_recipe": "2x Mechanical Components 3x Steel Spring",
+    "loot": "Yes",
+    "harvester_event": "No",
+    "quest_reward": "No",
+    "trials_reward": "",
+    "blueprint_url": "https://arcraiders.wiki/wiki/Extended_Shotgun_Magazine_II"
+  },
+  {
+    "blueprint_name": "Extended Shotgun Magazine III",
+    "workshop": "Gunsmith 3",
+    "crafting_recipe": "2x Mod Components 5x Steel Spring",
+    "loot": "Yes",
+    "harvester_event": "No",
+    "quest_reward": "No",
+    "trials_reward": "",
+    "blueprint_url": "https://arcraiders.wiki/wiki/Extended_Shotgun_Magazine_III"
+  },
+  {
+    "blueprint_name": "Equalizer",
+    "workshop": "Gunsmith 3",
+    "crafting_recipe": "3x Magnetic Accelerator 3x Complex Gun Parts 1x Queen Reactor",
+    "loot": "No",
+    "harvester_event": "Yes",
+    "quest_reward": "No",
+    "trials_reward": "",
+    "blueprint_url": "https://arcraiders.wiki/wiki/Equalizer"
+  },
+  {
+    "blueprint_name": "Heavy Gun Parts",
+    "workshop": "Refiner 2",
+    "crafting_recipe": "4x Simple Gun Parts",
+    "loot": "Yes",
+    "harvester_event": "No",
+    "quest_reward": "No",
+    "trials_reward": "",
+    "blueprint_url": "https://arcraiders.wiki/wiki/Heavy_Gun_Parts"
+  },
+  {
+    "blueprint_name": "Horizontal Grip",
+    "workshop": "Gunsmith 3",
+    "crafting_recipe": "2x Mod Components 5x Duct Tape",
+    "loot": "Yes",
+    "harvester_event": "No",
+    "quest_reward": "No",
+    "trials_reward": "Yes",
+    "blueprint_url": "https://arcraiders.wiki/wiki/Horizontal_Grip"
+  },
+  {
+    "blueprint_name": "Hullcracker",
+    "workshop": "Gunsmith 3",
+    "crafting_recipe": "1x Magnetic Accelerator 3x Heavy Gun Parts 1x Exodus Modules",
+    "loot": "No",
+    "harvester_event": "No",
+    "quest_reward": "Yes",
+    "trials_reward": "",
+    "blueprint_url": "https://arcraiders.wiki/wiki/Hullcracker"
+  },
+  {
+    "blueprint_name": "Il Toro",
+    "workshop": "Gunsmith 1",
+    "crafting_recipe": "5x Mechanical Components 6x Simple Gun Parts",
+    "loot": "Yes",
+    "harvester_event": "No",
+    "quest_reward": "No",
+    "trials_reward": "",
+    "blueprint_url": "https://arcraiders.wiki/wiki/Il_Toro"
+  },
+  {
+    "blueprint_name": "Jolt Mine",
+    "workshop": "Explosives Station 2",
+    "crafting_recipe": "1x Electrical Components 1x Battery",
+    "loot": "Yes",
+    "harvester_event": "No",
+    "quest_reward": "No",
+    "trials_reward": "",
+    "blueprint_url": "https://arcraiders.wiki/wiki/Jolt_Mine"
+  },
+  {
+    "blueprint_name": "Jupiter",
+    "workshop": "Gunsmith 3",
+    "crafting_recipe": "3x Magnetic Accelerator 3x Complex Gun Parts 1x Queen Reactor",
+    "loot": "No",
+    "harvester_event": "Yes",
+    "quest_reward": "No",
+    "trials_reward": "",
+    "blueprint_url": "https://arcraiders.wiki/wiki/Jupiter"
+  },
+  {
+    "blueprint_name": "Kinetic Converter",
+    "workshop": "Gunsmith 3",
+    "crafting_recipe": "?",
+    "loot": "Yes",
+    "harvester_event": "No",
+    "quest_reward": "No",
+    "trials_reward": "",
+    "blueprint_url": "https://arcraiders.wiki/wiki/Kinetic_Converter"
+  },
+  {
+    "blueprint_name": "Launcher Ammo",
+    "workshop": "Workbench 1",
+    "crafting_recipe": "5x Metal Parts 1x Crude Explosives",
+    "loot": "No",
+    "harvester_event": "No",
+    "quest_reward": "Yes",
+    "trials_reward": "",
+    "blueprint_url": "https://arcraiders.wiki/wiki/Launcher_Ammo"
+  },
+  {
+    "blueprint_name": "Light Gun Parts",
+    "workshop": "Refiner 2",
+    "crafting_recipe": "4x Simple Gun Parts",
+    "loot": "Yes",
+    "harvester_event": "No",
+    "quest_reward": "No",
+    "trials_reward": "",
+    "blueprint_url": "https://arcraiders.wiki/wiki/Light_Gun_Parts"
+  },
+  {
+    "blueprint_name": "Light Stick (Any Color)",
+    "workshop": "Utility Station 1",
+    "crafting_recipe": "3x Chemicals",
+    "loot": "Yes",
+    "harvester_event": "No",
+    "quest_reward": "No",
+    "trials_reward": "",
+    "blueprint_url": "https://arcraiders.wiki/wiki/Light_Stick"
+  },
+  {
+    "blueprint_name": "Lightweight Stock",
+    "workshop": "Gunsmith 3",
+    "crafting_recipe": "2x Mod Components 5x Duct Tape",
+    "loot": "Yes",
+    "harvester_event": "No",
+    "quest_reward": "No",
+    "trials_reward": "",
+    "blueprint_url": "https://arcraiders.wiki/wiki/Lightweight_Stock"
+  },
+  {
+    "blueprint_name": "Looting Mk. 3 (SURVIVOR)",
+    "workshop": "Gear Bench 3",
+    "crafting_recipe": "2x Advanced Electrical Components 3x Processor",
+    "loot": "Yes",
+    "harvester_event": "No",
+    "quest_reward": "No",
+    "trials_reward": "Yes",
+    "blueprint_url": "https://arcraiders.wiki/wiki/Looting_Mk._3_(SURVIVOR)"
+  },
+  {
+    "blueprint_name": "Lure Grenade",
+    "workshop": "Utility Station 2",
+    "crafting_recipe": "1x Speaker Component 1x Electrical Components",
+    "loot": "No",
+    "harvester_event": "No",
+    "quest_reward": "Yes",
+    "trials_reward": "",
+    "blueprint_url": "https://arcraiders.wiki/wiki/Lure_Grenade"
+  },
+  {
+    "blueprint_name": "Medium Gun Parts",
+    "workshop": "Refiner 2",
+    "crafting_recipe": "4x Simple Gun Parts",
+    "loot": "Yes",
+    "harvester_event": "No",
+    "quest_reward": "No",
+    "trials_reward": "",
+    "blueprint_url": "https://arcraiders.wiki/wiki/Medium_Gun_Parts"
+  },
+  {
+    "blueprint_name": "Muzzle Brake II",
+    "workshop": "Gunsmith 2",
+    "crafting_recipe": "2x Mechanical Components 4x Wires",
+    "loot": "Yes",
+    "harvester_event": "No",
+    "quest_reward": "No",
+    "trials_reward": "",
+    "blueprint_url": "https://arcraiders.wiki/wiki/Muzzle_Brake_II"
+  },
+  {
+    "blueprint_name": "Muzzle Brake III",
+    "workshop": "Gunsmith 3",
+    "crafting_recipe": "2x Mod Components 8x Wires",
+    "loot": "Yes",
+    "harvester_event": "No",
+    "quest_reward": "No",
+    "trials_reward": "",
+    "blueprint_url": "https://arcraiders.wiki/wiki/Muzzle_Brake_III"
+  },
+  {
+    "blueprint_name": "Osprey",
+    "workshop": "Gunsmith 3",
+    "crafting_recipe": "2x Advanced Mechanical Components 3x Medium Gun Parts 7x Wires",
+    "loot": "Yes",
+    "harvester_event": "No",
+    "quest_reward": "No",
+    "trials_reward": "",
+    "blueprint_url": "https://arcraiders.wiki/wiki/Osprey"
+  },
+  {
+    "blueprint_name": "Padded Stock",
+    "workshop": "Gunsmith 3",
+    "crafting_recipe": "2x Mod Components 5x Duct Tape",
+    "loot": "Yes",
+    "harvester_event": "No",
+    "quest_reward": "No",
+    "trials_reward": "",
+    "blueprint_url": "https://arcraiders.wiki/wiki/Padded_Stock"
+  },
+  {
+    "blueprint_name": "Remote Raider Flare",
+    "workshop": "Utility Station 1",
+    "crafting_recipe": "2x Chemicals 4x Rubber Parts",
+    "loot": "Yes",
+    "harvester_event": "No",
+    "quest_reward": "No",
+    "trials_reward": "Yes",
+    "blueprint_url": "https://arcraiders.wiki/wiki/Remote_Raider_Flare"
+  },
+  {
+    "blueprint_name": "Shotgun Choke II",
+    "workshop": "Gunsmith 2",
+    "crafting_recipe": "2x Mechanical Components 4x Wires",
+    "loot": "Yes",
+    "harvester_event": "No",
+    "quest_reward": "No",
+    "trials_reward": "",
+    "blueprint_url": "https://arcraiders.wiki/wiki/Shotgun_Choke_II"
+  },
+  {
+    "blueprint_name": "Shotgun Choke III",
+    "workshop": "Gunsmith 3",
+    "crafting_recipe": "2x Mod Components 8x Wires",
+    "loot": "Yes",
+    "harvester_event": "No",
+    "quest_reward": "No",
+    "trials_reward": "",
+    "blueprint_url": "https://arcraiders.wiki/wiki/Shotgun_Choke_III"
+  },
+  {
+    "blueprint_name": "Shotgun Silencer",
+    "workshop": "Gunsmith 3",
+    "crafting_recipe": "2x Mod Components 8x Wires",
+    "loot": "Yes",
+    "harvester_event": "No",
+    "quest_reward": "No",
+    "trials_reward": "",
+    "blueprint_url": "https://arcraiders.wiki/wiki/Shotgun_Silencer"
+  },
+  {
+    "blueprint_name": "Showstopper",
+    "workshop": "Explosives Station 3",
+    "crafting_recipe": "1x Advanced Electrical Components 1x Voltage Converter",
+    "loot": "Yes",
+    "harvester_event": "No",
+    "quest_reward": "No",
+    "trials_reward": "",
+    "blueprint_url": "https://arcraiders.wiki/wiki/Showstopper"
+  },
+  {
+    "blueprint_name": "Silencer I",
+    "workshop": "Gunsmith 2",
+    "crafting_recipe": "2x Mechanical Components 4x Wires",
+    "loot": "Yes",
+    "harvester_event": "No",
+    "quest_reward": "No",
+    "trials_reward": "",
+    "blueprint_url": "https://arcraiders.wiki/wiki/Silencer_I"
+  },
+  {
+    "blueprint_name": "Silencer II",
+    "workshop": "Gunsmith 3",
+    "crafting_recipe": "2x Mod Components 8x Wires",
+    "loot": "Yes",
+    "harvester_event": "No",
+    "quest_reward": "No",
+    "trials_reward": "",
+    "blueprint_url": "https://arcraiders.wiki/wiki/Silencer_II"
+  },
+  {
+    "blueprint_name": "Silencer III",
+    "workshop": "Gunsmith 3",
+    "crafting_recipe": "?",
+    "loot": "Yes",
+    "harvester_event": "No",
+    "quest_reward": "No",
+    "trials_reward": "",
+    "blueprint_url": "https://arcraiders.wiki/wiki/Silencer_III"
+  },
+  {
+    "blueprint_name": "Snap Hook",
+    "workshop": "Utility Station 3",
+    "crafting_recipe": "2x Power Rod 3x Rope 1x Exodus Modules",
+    "loot": "Yes",
+    "harvester_event": "No",
+    "quest_reward": "No",
+    "trials_reward": "",
+    "blueprint_url": "https://arcraiders.wiki/wiki/Snap_Hook"
+  },
+  {
+    "blueprint_name": "Stable Stock II",
+    "workshop": "Gunsmith 2",
+    "crafting_recipe": "2x Mechanical Components 3x Duct Tape",
+    "loot": "Yes",
+    "harvester_event": "No",
+    "quest_reward": "No",
+    "trials_reward": "",
+    "blueprint_url": "https://arcraiders.wiki/wiki/Stable_Stock_II"
+  },
+  {
+    "blueprint_name": "Stable Stock III",
+    "workshop": "Gunsmith 3",
+    "crafting_recipe": "2x Mod Components 5x Duct Tape",
+    "loot": "Yes",
+    "harvester_event": "No",
+    "quest_reward": "No",
+    "trials_reward": "",
+    "blueprint_url": "https://arcraiders.wiki/wiki/Stable_Stock_III"
+  },
+  {
+    "blueprint_name": "Tactical Mk. 3 (DEFENSIVE)",
+    "workshop": "Gear Bench 3",
+    "crafting_recipe": "2x Advanced Electrical Components 3x Processor",
+    "loot": "Yes",
+    "harvester_event": "No",
+    "quest_reward": "No",
+    "trials_reward": "",
+    "blueprint_url": "https://arcraiders.wiki/wiki/Tactical_Mk._3_(DEFENSIVE)"
+  },
+  {
+    "blueprint_name": "Tactical Mk. 3 (HEALING)",
+    "workshop": "Gear Bench 3",
+    "crafting_recipe": "2x Advanced Electrical Components 3x Processor",
+    "loot": "Yes",
+    "harvester_event": "No",
+    "quest_reward": "No",
+    "trials_reward": "",
+    "blueprint_url": "https://arcraiders.wiki/wiki/Tactical_Mk._3_(HEALING)"
+  },
+  {
+    "blueprint_name": "Tagging Grenade",
+    "workshop": "Utility Station 3",
+    "crafting_recipe": "1x Electrical Components 1x Sensors",
+    "loot": "Yes",
+    "harvester_event": "No",
+    "quest_reward": "No",
+    "trials_reward": "",
+    "blueprint_url": "https://arcraiders.wiki/wiki/Tagging_Grenade"
+  },
+  {
+    "blueprint_name": "Tempest",
+    "workshop": "Gunsmith 3",
+    "crafting_recipe": "?",
+    "loot": "Yes",
+    "harvester_event": "No",
+    "quest_reward": "No",
+    "trials_reward": "",
+    "blueprint_url": "https://arcraiders.wiki/wiki/Tempest"
+  },
+  {
+    "blueprint_name": "Torrente",
+    "workshop": "Gunsmith 3",
+    "crafting_recipe": "2x Advanced Mechanical Components 3x Medium Gun Parts 6x Steel Spring",
+    "loot": "Yes",
+    "harvester_event": "No",
+    "quest_reward": "No",
+    "trials_reward": "",
+    "blueprint_url": "https://arcraiders.wiki/wiki/Torrente"
+  },
+  {
+    "blueprint_name": "Trigger 'Nade",
+    "workshop": "Explosives Station 2",
+    "crafting_recipe": "2x Crude Explosives 1x Processor",
+    "loot": "Yes",
+    "harvester_event": "No",
+    "quest_reward": "Yes",
+    "trials_reward": "",
+    "blueprint_url": "https://arcraiders.wiki/wiki/Trigger_%27Nade"
+  },
+  {
+    "blueprint_name": "Venator",
+    "workshop": "Gunsmith 3",
+    "crafting_recipe": "2x Advanced Mechanical Components 3x Medium Gun Parts 5x Magnet",
+    "loot": "Yes",
+    "harvester_event": "No",
+    "quest_reward": "No",
+    "trials_reward": "",
+    "blueprint_url": "https://arcraiders.wiki/wiki/Venator"
+  },
+  {
+    "blueprint_name": "Vertical Grip II",
+    "workshop": "Gunsmith 2",
+    "crafting_recipe": "2x Mechanical Components 3x Duct Tape",
+    "loot": "Yes",
+    "harvester_event": "No",
+    "quest_reward": "No",
+    "trials_reward": "",
+    "blueprint_url": "https://arcraiders.wiki/wiki/Vertical_Grip_II"
+  },
+  {
+    "blueprint_name": "Vertical Grip III",
+    "workshop": "Gunsmith 3",
+    "crafting_recipe": "2x Mod Components 5x Duct Tape",
+    "loot": "Yes",
+    "harvester_event": "No",
+    "quest_reward": "No",
+    "trials_reward": "",
+    "blueprint_url": "https://arcraiders.wiki/wiki/Vertical_Grip_III"
+  },
+  {
+    "blueprint_name": "Vita Shot",
+    "workshop": "Medical Lab 3",
+    "crafting_recipe": "2x Antiseptic 1x Syringe",
+    "loot": "Yes",
+    "harvester_event": "No",
+    "quest_reward": "No",
+    "trials_reward": "",
+    "blueprint_url": "https://arcraiders.wiki/wiki/Vita_Shot"
+  },
+  {
+    "blueprint_name": "Vita Spray",
+    "workshop": "Medical Lab 3",
+    "crafting_recipe": "3x Antiseptic 1x Canister",
+    "loot": "Yes",
+    "harvester_event": "No",
+    "quest_reward": "No",
+    "trials_reward": "",
+    "blueprint_url": "https://arcraiders.wiki/wiki/Vita_Spray"
+  },
+  {
+    "blueprint_name": "Vulcano",
+    "workshop": "Gunsmith 3",
+    "crafting_recipe": "?",
+    "loot": "Yes",
+    "harvester_event": "No",
+    "quest_reward": "No",
+    "trials_reward": "",
+    "blueprint_url": "https://arcraiders.wiki/wiki/Vulcano"
+  },
+  {
+    "blueprint_name": "Wolfpack",
+    "workshop": "Explosives Station 3",
+    "crafting_recipe": "2x Explosive Compound 2x Sensors",
+    "loot": "Yes",
+    "harvester_event": "No",
+    "quest_reward": "No",
+    "trials_reward": "",
+    "blueprint_url": "https://arcraiders.wiki/wiki/Wolfpack"
+  }
+]
