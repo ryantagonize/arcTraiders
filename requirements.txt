@@ -1,2 +1,5 @@
 beautifulsoup4==4.12.3
 requests==2.32.3
+gspread
+oauth2client
+google-api-python-client
